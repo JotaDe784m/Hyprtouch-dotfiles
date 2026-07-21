@@ -1,6 +1,9 @@
 --------------------------------------------------
--- HyprTouch
+-- Window Rules Configuration
 --------------------------------------------------
 
-require("core")
-require("config")
+local rules = {
+
+}
+
+return rules

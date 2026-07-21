@@ -3,11 +3,12 @@
 --------------------------------------------------
 
 -- Create the global project namespace
-HyprTouch = {}
+HyprTouch = {
+    config = {},
+}
 
 -- Load core modules
 require("core.version")
 require("core.paths")
-require("core.apps")
 require("core.defaults")
 require("core.helpers")

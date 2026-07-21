@@ -1,6 +1,9 @@
 --------------------------------------------------
--- HyprTouch
+-- Environment Configuration
 --------------------------------------------------
 
-require("core")
-require("config")
+local environment = {
+
+}
+
+return environment

@@ -1,6 +1,9 @@
 --------------------------------------------------
--- HyprTouch
+-- Input Configuration
 --------------------------------------------------
 
-require("core")
-require("config")
+local input = {
+
+}
+
+return input

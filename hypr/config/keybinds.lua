@@ -1,6 +1,9 @@
 --------------------------------------------------
--- HyprTouch
+-- Keybindings Configuration
 --------------------------------------------------
 
-require("core")
-require("config")
+local keybinds = {
+
+}
+
+return keybinds

@@ -1,6 +1,9 @@
 --------------------------------------------------
--- HyprTouch
+-- Appearance Configuration
 --------------------------------------------------
 
-require("core")
-require("config")
+local appearance = {
+
+}
+
+return appearance

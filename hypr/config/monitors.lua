@@ -1,6 +1,9 @@
 --------------------------------------------------
--- HyprTouch
+-- Monitor Configuration
 --------------------------------------------------
 
-require("core")
-require("config")
+local monitors = {
+
+}
+
+return monitors

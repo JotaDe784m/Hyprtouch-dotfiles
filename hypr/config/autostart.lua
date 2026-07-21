@@ -1,6 +1,9 @@
 --------------------------------------------------
--- HyprTouch
+-- Autostart Configuration
 --------------------------------------------------
 
-require("core")
-require("config")
+local autostart = {
+
+}
+
+return autostart

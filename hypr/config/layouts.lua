@@ -1,6 +1,9 @@
 --------------------------------------------------
--- HyprTouch
+-- Layout Configuration
 --------------------------------------------------
 
-require("core")
-require("config")
+local layouts = {
+
+}
+
+return layouts

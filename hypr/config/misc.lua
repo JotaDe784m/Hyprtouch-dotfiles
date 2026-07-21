@@ -1,6 +1,9 @@
 --------------------------------------------------
--- HyprTouch
+-- Miscellaneous Configuration
 --------------------------------------------------
 
-require("core")
-require("config")
+local misc = {
+
+}
+
+return misc
