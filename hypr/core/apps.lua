@@ -1,5 +1,3 @@
-HyprTouch = HyprTouch or {}
-
 HyprTouch.apps = {
 
     terminal = "kitty",

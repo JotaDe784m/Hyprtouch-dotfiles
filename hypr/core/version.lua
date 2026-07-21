@@ -1,9 +1,6 @@
-HyprTouch = HyprTouch or {}
-
 HyprTouch.version = {
     major = 0,
     minor = 1,
     patch = 0,
-
-    codename = "Foundation"
+    codename = "Foundation",
 }

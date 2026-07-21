@@ -1,13 +1,7 @@
-HyprTouch = HyprTouch or {}
-
-local HOME = os.getenv("HOME")
+local home = os.getenv("HOME")
 
 HyprTouch.paths = {
-
-    home = HOME,
-
-    config = HOME .. "/.config",
-
-    hypr = HOME .. "/.config/hypr"
-
+    home = home,
+    config = home .. "/.config",
+    hypr = home .. "/.config/hypr",
 }
