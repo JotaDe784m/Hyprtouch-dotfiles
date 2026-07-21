@@ -1,0 +1,17 @@
+# Lua
+*.luac
+
+# Runtime state
+hypr/state/*
+
+# Backups
+*.bak
+*.old
+
+# Editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
